@@ -22,7 +22,7 @@
             </div>
         </div>
         <div class="container">
-            <h1>Bem-vindo à <span class="highlight">Nome da Empresa</span></h1>
+            <h1>Bem-vindo à <span class="highlight">WorkEase</span></h1>
             <p>Soluções inteligentes de IA para automação empresarial.</p>
             <a href="#sobre" class="btn-primary">Saiba Mais</a>
         </div>
